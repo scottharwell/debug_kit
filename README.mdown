@@ -2,6 +2,10 @@
 
 DebugKit provides a debugging toolbar and enhanced debugging tools for CakePHP applications.
 
+## Edits in Fork
+My fork of this project contains the following updates to the Plugin:
+* Environment tab that gives a quick overview of PHP and CakePHP variables (version, paths, etc.)
+
 ## Requirements
 
 The master branch has the following requirements:
